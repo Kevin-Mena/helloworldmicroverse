@@ -4,12 +4,12 @@ This is the first Microverse hello world project which does not require any prio
 
 ## 🛠 Built With <a name="built-with"></a>
 
-<strong>HTML</strong>
+<strong>HTML</strong><br>
 <strong>CSS</strong>
 ### Key Features <a name="key-features"></a>
 
 - **[Headline]**
-- **[Homapage]**
+- **[Homepage]**
 
 👤 **Author**
 
@@ -19,9 +19,9 @@ This is the first Microverse hello world project which does not require any prio
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Navigation bar]**
-- [ ] **[Visual support]**
-- [ ] **[Footer]**
+- **[Navigation bar]**
+-  **[Visual support]**
+- **[Footer]**
 
 
 ## 🤝 Contributing <a name="contributing"></a>
