@@ -165,7 +165,7 @@ If you like this project,give it a ⭐️!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank everyone whose idea and code was used.
+I would like to thank Microverse for giving me the uttermost opportunity to learn Full Stack Web Development🙏
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
